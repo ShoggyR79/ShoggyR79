@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Du
 - 👀 I’m interested in Software and Web Design
-- 🌱 I’m currently a 2nd year at Vanderbilt University 
-- 💞️ I enjoy bringing ideas to reality
+- 🌱 I’m currently a 3rd year at Vanderbilt University 
+- 💞️ I enjoy creating new ideas and collaborating with others and help them create theirs!
 - 📫 du.k.duong@vanderbilt.edu and/or my personal email: khaidu2002@gmail.com
 
 <!---
