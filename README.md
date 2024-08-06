@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Du
 - 👀 I’m interested in Software, Web, and Game Design
-- 🌱 I’m currently a Senior at Vanderbilt University 
+- 🌱 I’m currently a SWE at Aurora Innovation
 - 💞️ I enjoy creating new ideas and collaborating with others and help them create theirs!
 - 📫 du.k.duong@vanderbilt.edu and/or my personal email: khaidu2002@gmail.com
 
